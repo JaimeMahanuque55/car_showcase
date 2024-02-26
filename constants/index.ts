@@ -72,25 +72,25 @@ export const manufacturers = [
   
   export const footerLinks = [
     {
-      title: "About",
+      title: "Sobre",
       links: [
-        { title: "How it works", url: "/" },
-        { title: "Featured", url: "/" },
-        { title: "Partnership", url: "/" },
-        { title: "Bussiness Relation", url: "/" },
+        { title: "Como funciona", url: "/" },
+        { title: "Destaque", url: "/" },
+        { title: "Parceria", url: "/" },
+        { title: "Relação Comercial", url: "/" },
       ],
     },
     {
-      title: "Company",
+      title: "Empresa",
       links: [
-        { title: "Events", url: "/" },
+        { title: "Eventos", url: "/" },
         { title: "Blog", url: "/" },
         { title: "Podcast", url: "/" },
-        { title: "Invite a friend", url: "/" },
+        { title: "Convidar um amigo", url: "/" },
       ],
     },
     {
-      title: "Socials",
+      title: "Sociais",
       links: [
         { title: "Discord", url: "/" },
         { title: "Instagram", url: "/" },
