@@ -32,6 +32,19 @@ const CarCard = ({ car }: CarCardProps) => {
                 /dia
             </span>
         </p>
+
+        <div className='relative w-full h-40 my-3 object-contain'>
+            <Image 
+                src="/hero.png" 
+                fill
+                className='object-contain'
+                alt='Car Model'
+                />
+        </div>
+
+        <div>
+            
+        </div>
     </div>
   )
 }
